@@ -20,6 +20,7 @@ Olá, sou um apaixonado desenvolvedor por Back-end e FrontEnd atualmente no Braz
   <img align="center" alt="Re-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Re-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Re-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+ <img align="center" alt="Re-Csharp" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png">
   <img align="right" alt="Re-Naruto" width="150" height="100"  src="https://media.giphy.com/media/8MyXEVgue4ucw/giphy.gif">
 </div>
   
