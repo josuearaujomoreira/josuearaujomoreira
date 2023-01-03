@@ -1,5 +1,5 @@
 ![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=josuearaujomoreira&repo=josuearaujomoreira&countColorcountColor)
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Oiii! ME chamo <a a href="https://renatoramospro.com.br" target="_blank">Josué Araújo!</a></h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Oiii! Me chamo <a a href="https://api.whatsapp.com/send?phone=5594992872426" target="_blank">Josué Araújo!</a></h1>
 Olá, sou um apaixonado desenvolvedor por Back-end e FrontEnd atualmente no Brazil.
 
 - 🔭 Atualmente estou trabalhando na empresa [HostHP](https://hosthp.com.br)
