@@ -19,6 +19,9 @@ Olá, sou um apaixonado desenvolvedor por Back-end e Aplicações Web atualmente
   <img align="center" alt="Re-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Re-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  <img align="center" alt="Re-Csharp" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png">
+  <img align="center" alt="Re-Csharp" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/1266/1266447.png">
+ 
+
   <img align="right" alt="GIF DEV" width="150" height="100"  src="https://raw.githubusercontent.com/trepichio/trepichio/master/assets/code.gif">
 </div>
   
