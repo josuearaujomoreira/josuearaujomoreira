@@ -4,8 +4,8 @@ Olá, sou um apaixonado desenvolvedor por Back-end e Aplicações Web atualmente
 
 - 🔭 Atualmente estou trabalhando na empresa [HostHP](https://hosthp.com.br)
 - 🌱 Atualmente criando uma aplicação com novas tecnologias.
-- 👯 Pretendo colaborar mais no [#infomaçõe](<a href="mailto:josue123201856@gmail.com">Example mailto link</a>)
-- 💬 Pergunte-me sobre qualquer coisa [Aqui](<a href="mailto:josue123201856@gmail.com">Example mailto link</a>)
+- 👯 Pretendo colaborar mais no <a href="mailto:josue123201856@gmail.com">#infomaçõe</a>
+- 💬 Pergunte-me sobre qualquer coisa <a href="mailto:josue123201856@gmail.com">Aqui</a>
 
  <div>
  
@@ -21,7 +21,7 @@ Olá, sou um apaixonado desenvolvedor por Back-end e Aplicações Web atualmente
   <img align="center" alt="Re-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Re-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
  <img align="center" alt="Re-Csharp" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png">
-  <img align="right" alt="Re-Naruto" width="150" height="100"  src="https://media.giphy.com/media/8MyXEVgue4ucw/giphy.gif">
+  <img align="right" alt="GIF DEV" width="150" height="100"  src="https://raw.githubusercontent.com/trepichio/trepichio/master/assets/code.gif">
 </div>
   
   ##
