@@ -4,8 +4,8 @@ Olá, sou um apaixonado desenvolvedor por Back-end e Aplicações Web atualmente
 
 - 🔭 Atualmente estou trabalhando na empresa [HostHP](https://hosthp.com.br)
 - 🌱 Atualmente criando uma aplicação com novas tecnologias.
-- 👯 Pretendo colaborar mais no [#infomaçõe](josue123201856@gmail.com)
-- 💬 Pergunte-me sobre qualquer coisa [Aqui](osue123201856@gmail.com)
+- 👯 Pretendo colaborar mais no [#infomaçõe](<a href="mailto:josue123201856@gmail.com">Example mailto link</a>)
+- 💬 Pergunte-me sobre qualquer coisa [Aqui](<a href="mailto:josue123201856@gmail.com">Example mailto link</a>)
 
  <div>
  
