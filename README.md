@@ -1,4 +1,5 @@
 ![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=josuearaujomoreira&repo=josuearaujomoreira&countColorcountColor)
+![](https://api.visitorbadge.io/api/VisitorHit?user=josuearaujomoreira&repo=github-visitors-badge&countColor=%237B1E7A)
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Oiii! Me chamo <a a href="https://api.whatsapp.com/send?phone=5594992872426" target="_blank">Josué Araújo!</a></h1>
 Olá, sou um apaixonado desenvolvedor por Back-end e Aplicações Web atualmente no Brazil.
 
