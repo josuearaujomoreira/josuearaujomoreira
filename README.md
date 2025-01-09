@@ -3,7 +3,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Oiii! Me chamo <a a href="https://api.whatsapp.com/send?phone=5594992872426" target="_blank">Josué Araújo!</a></h1>
 Olá, sou um apaixonado desenvolvedor por Back-end e Aplicações Web atualmente no Brazil.
 
-- 🔭 Atualmente estou trabalhando na empresa [HostHP](https://hosthp.com.br)
+- 🔭 Atualmente estou trabalhando na empresa [Cloux](https://cloudx.com.br/)
 - 🌱 Atualmente criando uma aplicação com novas tecnologias.
 - 👯 Pretendo colaborar mais no <a href="mailto:josue123201856@gmail.com">#infomações</a>
 - 💬 Pergunte-me sobre qualquer coisa <a href="mailto:josue123201856@gmail.com">Aqui</a>
