@@ -1,117 +1,107 @@
 <div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0cc45c&height=220&section=header&text=Josué%20Araújo%20Moreira&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20•%20PHP%20•%20Laravel%20•%20Node.js%20•%20AI%20Agents&descAlignY=58"/>
+
 # 👋 Olá, eu sou o Josué Araújo Moreira
 
-### Backend Developer • PHP • Laravel • Node.js • AI Agents • Docker
+### Backend Developer na CloudX • Brasil 🇧🇷
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=10C45C&center=true&vCenter=true&width=700&lines=Backend+Developer+at+CloudX;PHP+%7C+Laravel+%7C+Node.js+Developer;Docker+%7C+Redis+%7C+PostgreSQL;Building+AI+Agents+and+Automation;Always+learning+new+technologies+🚀"/>
 
 <p>
-  Desenvolvedor Full Stack apaixonado por criar APIs, automações, aplicações web escaláveis e soluções com Inteligência Artificial.
+  <img src="https://komarev.com/ghpvc/?username=josuearaujomoreira&style=for-the-badge&color=10C45C"/>
+  <img src="https://img.shields.io/github/followers/josuearaujomoreira?style=for-the-badge&color=10C45C"/>
+  <img src="https://img.shields.io/github/stars/josuearaujomoreira?style=for-the-badge&color=10C45C"/>
 </p>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F79F&center=true&vCenter=true&width=700&lines=Backend+Developer+at+CloudX;PHP+%7C+Laravel+%7C+Node.js+Developer;Docker+%7C+Redis+%7C+PostgreSQL;Building+AI+Agents+and+Web+Applications;Always+learning+new+technologies+🚀"/>
-
-![](https://komarev.com/ghpvc/?username=josuearaujomoreira&color=0cc45c&style=for-the-badge)
 
 </div>
 
 ---
 
-# 🚀 Sobre mim
+# 💚 Sobre mim
 
-💚 Desenvolvedor Backend na **CloudX**.
+Sou um desenvolvedor apaixonado por construir aplicações escaláveis, APIs performáticas e soluções com Inteligência Artificial.
 
-- 💻 Trabalho diariamente com **PHP, Laravel, Node.js e APIs REST**.
-- 🤖 Desenvolvo **AI Agents**, automações e integrações inteligentes.
-- 🐳 Infraestrutura com **Docker, Linux, Nginx, Redis e PostgreSQL**.
-- 📚 Graduado em **Tecnologia em Análise e Desenvolvimento de Sistemas (UEPA)**.
-- 📚 Pós Graduado  em desenvolvimento mobile**.
-- 🇺🇸 Aprendendo inglês para experiências internacionais.
+Atualmente trabalho como **Backend Developer** na **CloudX**, desenvolvendo sistemas para hospedagem, automações, integrações e aplicações web.
+
+### 🚀 Atualmente
+
+- 💼 Backend Developer na **CloudX**.
+- 🤖 Desenvolvendo **AI Agents** e automações.
+- ⚙️ Criando APIs REST e integrações.
+- 🌎 Redenção • Pará • Brasil.
+- 🇺🇸 Aprendendo inglês para oportunidades internacionais.
 
 ---
 
-# 🛠️ Tech Stack
+# ⚡ Stack Principal
 
 ## Backend
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,redis,postgres,mysql" />
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,redis,postgres,mysql"/>
 </p>
 
 ## Frontend
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,bootstrap,vite" />
+<img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,bootstrap,vite"/>
 </p>
 
-## DevOps & Cloud
+## DevOps
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=docker,linux,nginx,cloudflare,git,github,bash,postman" />
+<img src="https://skillicons.dev/icons?i=docker,linux,nginx,cloudflare,git,github,bash,postman"/>
 </p>
 
-## AI & Tools
+## Inteligência Artificial
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=vscode,githubactions,figma" />
+<img src="https://skillicons.dev/icons?i=openai,vscode"/>
 </p>
 
-**Também utilizo:**
+**Ferramentas que utilizo diariamente**
 
-- 🤖 Claude Code API
-- ✨ Gemini
-- 🧠 DeepSeek
-- 🚀 Antigravity
-- ⚡ OpenAI APIs
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=josuearaujomoreira&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josuearaujomoreira&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-
-<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=josuearaujomoreira&theme=tokyonight&hide_border=true"/>
-
-</div>
+- Claude Code API
+- Gemini
+- DeepSeek
+- Antigravity
+- OpenAI API
+- GitHub Actions
 
 ---
 
-# ⚡ Tecnologias que mais uso
-
-<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,react,docker,redis,postgres,mysql,linux,git,github,tailwind,vite"/>
-
----
-
-# 🌟 Projetos em destaque
+# 🧠 O que eu gosto de desenvolver
 
 <table>
 <tr>
 <td width="50%">
 
-### 💰 Meu Bolso
+### 🔧 Backend
 
-Sistema de controle financeiro com milhares de usuários.
-
-- 📈 Entradas e saídas
-- 💳 Parcelamentos
-- 📊 Dashboard financeiro
-- ⭐ Plano Premium
+- APIs REST
+- Laravel
+- PHP puro
+- Node.js
+- Integrações
+- Redis
+- PostgreSQL
+- MySQL
 
 </td>
 
 <td width="50%">
 
-### 🎮 uFeed Social
+### ☁️ Infraestrutura
 
-Rede social com jogos online.
-
-- 👥 Feed social
-- 🎮 Mini games
-- 📱 Android + iOS
-- ☁️ Backend escalável
+- Docker
+- Linux
+- VPS
+- Nginx
+- SSL
+- Cloudflare
+- CI/CD
+- PM2
 
 </td>
 </tr>
@@ -119,9 +109,82 @@ Rede social com jogos online.
 
 ---
 
-# 📈 GitHub Activity Graph
+# 🚀 Projetos em Destaque
 
-[![Josué github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=josuearaujomoreira&theme=tokyo-night&hide_border=true)](https://github.com/josuearaujomoreira)
+<table>
+<tr>
+<td width="50%">
+
+## 💰 Meu Bolso
+
+Aplicativo de controle financeiro pessoal.
+
+**Recursos**
+
+- Entradas e saídas.
+- Parcelamentos.
+- Dashboard financeiro.
+- Premium.
+- Android e iOS.
+
+**Tecnologias**
+
+React Native • Node.js • PostgreSQL • Docker
+
+</td>
+
+<td width="50%">
+
+## 🎮 uFeed Social
+
+Rede social com mini games online.
+
+**Recursos**
+
+- Feed social.
+- Uploads.
+- Jogos multiplayer.
+- Android e iOS.
+
+**Tecnologias**
+
+React • Node.js • PostgreSQL • Docker
+
+</td>
+</tr>
+</table>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=josuearaujomoreira&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josuearaujomoreira&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=josuearaujomoreira&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Activity Graph
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=josuearaujomoreira&theme=tokyo-night&hide_border=true"/>
+
+</div>
 
 ---
 
@@ -129,15 +192,42 @@ Rede social com jogos online.
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=josuearaujomoreira&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-trophy.vercel.app/?username=josuearaujomoreira&theme=tokyonight&no-frame=true&row=2&column=4"/>
 
 </div>
 
 ---
 
-# 🌍 Onde me encontrar
+# 💻 Tecnologias que utilizo
 
-<p align="center">
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,react,js,ts,tailwind,bootstrap,docker,linux,redis,postgres,mysql,nginx,git,github,cloudflare,vscode"/>
+
+</div>
+
+---
+
+# 📚 Atualmente estudando
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=go,python,kubernetes,aws"/>
+
+</div>
+
+- Inteligência Artificial.
+- Arquitetura Backend.
+- Docker Avançado.
+- Kubernetes.
+- AWS.
+- Inglês para tecnologia.
+
+---
+
+# 🌎 Onde me encontrar
+
+<div align="center">
 
 <a href="https://cloudx.com.br">
 <img src="https://img.shields.io/badge/CloudX-00C853?style=for-the-badge&logo=googlecloud&logoColor=white"/>
@@ -163,20 +253,96 @@ Rede social com jogos online.
 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
 
-</p>
+</div>
+
+---
+
+# 📊 Métricas do Perfil
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=josuearaujomoreira&theme=tokyonight"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=josuearaujomoreira&theme=tokyonight" width="48%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=josuearaujomoreira&theme=tokyonight" width="48%"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=josuearaujomoreira&theme=tokyonight" width="48%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=josuearaujomoreira&theme=tokyonight&utcOffset=-3" width="48%"/>
+
+</div>
+
+---
+
+# ⚙️ Ambiente de Desenvolvimento
+
+```yaml
+Editor:
+  - VS Code
+
+Sistema:
+  - Windows 11
+  - Ubuntu Server
+  - AlmaLinux
+
+Backend:
+  - PHP
+  - Laravel
+  - Node.js
+
+Banco:
+  - PostgreSQL
+  - MySQL
+  - Redis
+
+Infra:
+  - Docker
+  - Nginx
+  - Cloudflare
+  - VPS Linux
+
+IA:
+  - OpenAI
+  - Gemini
+  - Claude
+  - DeepSeek
+```
+
+---
+
+# 🎯 Objetivos para 2027
+
+- 🚀 Evoluir como Software Engineer Backend.
+- 🤖 Especialização em AI Agents.
+- ☁️ Kubernetes e AWS.
+- 🌎 Participar do Web Summit Rio.
+- 🇺🇸 Trabalhar em projetos internacionais.
+
+---
+
+# 🐍 Snake Contributions
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/josuearaujomoreira/josuearaujomoreira/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
 
 ---
 
 <div align="center">
 
-## 🐍 Contributions Snake
+## 💚 Obrigado por visitar meu perfil!
 
-<img src="https://raw.githubusercontent.com/josuearaujomoreira/josuearaujomoreira/output/github-contribution-grid-snake-dark.svg"/>
+*"Code. Learn. Build. Repeat."*
 
----
-
-### 💚 "Code. Learn. Build. Repeat."
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0cc45c&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=10C45C&height=120&section=footer"/>
 
 </div>
