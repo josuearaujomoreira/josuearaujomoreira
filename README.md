@@ -23,9 +23,9 @@
 - 💻 Trabalho diariamente com **PHP, Laravel, Node.js e APIs REST**.
 - 🤖 Desenvolvo **AI Agents**, automações e integrações inteligentes.
 - 🐳 Infraestrutura com **Docker, Linux, Nginx, Redis e PostgreSQL**.
-- 🌎 Moro em **Redenção - Pará, Brasil**.
-- 📚 Estudante de **Tecnologia em Análise e Desenvolvimento de Sistemas (UEPA)**.
-- 🇺🇸 Aprendendo inglês para oportunidades internacionais.
+- 📚 Graduado em **Tecnologia em Análise e Desenvolvimento de Sistemas (UEPA)**.
+- 📚 Pós Graduado  em desenvolvimento mobile**.
+- 🇺🇸 Aprendendo inglês para experiências internacionais.
 
 ---
 
