@@ -4,7 +4,7 @@
 
 # 👋 Olá, eu sou o Josué Araújo Moreira
 
-### Backend Developer na Cloudx • Brasil 🇧🇷
+###  Developer Full Stack na Cloudx • Brasil 🇧🇷
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=10C45C&center=true&vCenter=true&width=700&lines=Backend+Developer+at+CloudX;PHP+%7C+Laravel+%7C+Node.js+Developer;Docker+%7C+Redis+%7C+PostgreSQL;Building+AI+Agents+and+Automation;Always+learning+new+technologies+🚀"/>
 
